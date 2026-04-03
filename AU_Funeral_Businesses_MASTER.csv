@@ -1,0 +1,11 @@
+business_name,abn,street_address,suburb,state,postcode,phone,ownership_type,mobile,email,website_url,corporate_brand,afda_member,state_assoc_member,services,notes,google_place_id,google_business_name,google_rating,google_review_count,google_maps_url,google_business_status,google_business_category,google_formatted_address,source,scraped_at
+Smith & Sons Funerals,,,Parramatta,NSW,2150,02 9876 5432,Independent,,,,,Unknown,Unknown,,,,,4.8,,,OPERATIONAL,Funeral home,,demo,2026-04-03T12:57:56.259239
+White Lady Funerals Chatswood,,,Chatswood,NSW,2067,02 9411 1122,InvoCare,,,,White Lady Funerals,Unknown,Unknown,,,,,4.6,,,OPERATIONAL,Funeral home,,demo,2026-04-03T12:57:56.259252
+Guardian Funerals Brisbane,,,Brisbane,QLD,4000,07 3221 5544,Propel,,,,Guardian Funerals,Unknown,Unknown,,,,,4.3,,,OPERATIONAL,Funeral home,,demo,2026-04-03T12:57:56.259258
+Henderson Family Funerals,,,Ballarat,VIC,3350,03 5331 2244,Independent,,,,,Unknown,Unknown,,,,,4.9,,,OPERATIONAL,Funeral home,,demo,2026-04-03T12:57:56.259262
+Simplicity Funerals Perth,,,Perth,WA,6000,08 9321 7788,InvoCare,,,,Simplicity Funerals,Unknown,Unknown,,,,,4.2,,,OPERATIONAL,Funeral home,,demo,2026-04-03T12:57:56.259266
+Blackwell Funerals Adelaide,,,Adelaide,SA,5000,08 8212 3344,Propel,,,,Blackwell Funerals,Unknown,Unknown,,,,,4.5,,,OPERATIONAL,Funeral home,,demo,2026-04-03T12:57:56.259270
+Hobart Funeral Services,,,Hobart,TAS,7000,03 6231 4455,Independent,,,,,Unknown,Unknown,,,,,4.7,,,OPERATIONAL,Funeral home,,demo,2026-04-03T12:57:56.259273
+Capital Funerals Canberra,,,Canberra,ACT,2600,02 6247 8899,Independent,,,,,Unknown,Unknown,,,,,4.6,,,OPERATIONAL,Funeral home,,demo,2026-04-03T12:57:56.259276
+Darwin Memorial Funerals,,,Darwin,NT,0800,08 8981 6677,Independent,,,,,Unknown,Unknown,,,,,4.4,,,OPERATIONAL,Funeral home,,demo,2026-04-03T12:57:56.259279
+Le Pine Funerals Hawthorn,,,Hawthorn,VIC,3122,03 9819 2200,InvoCare,,,,Le Pine Funerals,Unknown,Unknown,,,,,4.8,,,CLOSED_TEMPORARILY,Funeral home,,demo,2026-04-03T12:57:56.259282
